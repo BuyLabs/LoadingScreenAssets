@@ -26,9 +26,9 @@ var BG = {
     ],
 	
 	newsContent: [
-        {img: 'assets/logo.png', title:'Current Deals!', data:'28/02/2022', text:'Hello wonderful people of San Andreas State Roleplay we currently have some great offers you should take advantage of before they end, These offers are as followed: 3 Cfx.re upvotes on our server for a personal vehicle, 4 discord server boosts for a personal vehicle and ped, get 10 people into the server and get a personal car !, If you are looking for to buy anthing for in game please visit: https://store.sasrp.xyz/' },
-		{img: 'assets/logo.png', title:'Store Sale!', data:'28/02/2022', text:'Hello everyone There is a current sale on our store this is the march 2022 sale please use code: march22 at checkout for %25 of all purchases on our store you can use this code on all items within the store this excludes the following: "Monthly or recurring purchases" Thanks for reading please make sure to let people know.' },
-        {img: 'assets/logo.png', title:'Changelog!', data:'28/02/2022', text:'Added - More gabz maps, Police Radar, New phone, /Duty Script, Updated discord' },
+        {img: 'https://raw.githubusercontent.com/BuyLabs/LoadingScreenAssets/main/21157bc08ca1ee0fb42d5a484f7d8b78ecef6d6786f4c5fce32a780a4919df24.png?token=GHSAT0AAAAAABQDPOXR3HEDQIQ5XCSBD6IYYTFFXSQ', title:'Current Deals!', data:'28/02/2022', text:'Hello wonderful people of San Andreas State Roleplay we currently have some great offers you should take advantage of before they end, These offers are as followed: 3 Cfx.re upvotes on our server for a personal vehicle, 4 discord server boosts for a personal vehicle and ped, get 10 people into the server and get a personal car !, If you are looking for to buy anthing for in game please visit: https://store.sasrp.xyz/' },
+		{img: 'https://raw.githubusercontent.com/BuyLabs/LoadingScreenAssets/main/21157bc08ca1ee0fb42d5a484f7d8b78ecef6d6786f4c5fce32a780a4919df24.png?token=GHSAT0AAAAAABQDPOXR3HEDQIQ5XCSBD6IYYTFFXSQ', title:'Store Sale!', data:'28/02/2022', text:'Hello everyone There is a current sale on our store this is the march 2022 sale please use code: march22 at checkout for %25 of all purchases on our store you can use this code on all items within the store this excludes the following: "Monthly or recurring purchases" Thanks for reading please make sure to let people know.' },
+        {img: 'https://raw.githubusercontent.com/BuyLabs/LoadingScreenAssets/main/21157bc08ca1ee0fb42d5a484f7d8b78ecef6d6786f4c5fce32a780a4919df24.png?token=GHSAT0AAAAAABQDPOXR3HEDQIQ5XCSBD6IYYTFFXSQ', title:'Changelog!', data:'28/02/2022', text:'Added - More gabz maps, Police Radar, New phone, /Duty Script, Updated discord' },
     ],
 	
 	contactsContent: [
@@ -37,9 +37,9 @@ var BG = {
     ],
 	
 	musicList: [
-        { name:'Digga D - Pump 101', link:'assets/pump101.mp3' },
-        { name:'NBA youngboy - Make no sense ', link:'assets/MakeNoSense.mp3' },
-        { name:'Ksean - Touring (Unreleased)', link:'assets/KseanT.mp3' }
+        { name:'Digga D - Pump 101', link:'https://raw.githubusercontent.com/BuyLabs/LoadingScreenAssets/main/pump101.mp3?token=GHSAT0AAAAAABQDPOXQHRWMD2KDGZQA7PP4YTFF2KQ' },
+        { name:'NBA youngboy - Make no sense ', link:'https://raw.githubusercontent.com/BuyLabs/LoadingScreenAssets/main/MakeNoSense.mp3?token=GHSAT0AAAAAABQDPOXQCZYOHQ3UXI6J4UVAYTFF2BA' },
+        { name:'Ksean - Touring (Unreleased)', link:'https://raw.githubusercontent.com/BuyLabs/LoadingScreenAssets/main/KseanT.mp3?token=GHSAT0AAAAAABQDPOXQORKOJLJR77I2XGRUYTFFZLQ' }
     ],
 
 	/* system */
